@@ -1,10 +1,10 @@
 Aero Foil
 Aero Foil SparklePurple
-Aero PrismFoil Comic
+Aero PrismFoil ComicRainbow
 Aero PrismFoil GlimmerGreen
 AgathaHarkness PrismFoil
 AmericaChavez Foil ComicWhite
-AmericaChavez GoldFoil Glimmer
+AmericaChavez GoldFoil GlimmerRainbow
 AmericaChavez GoldFoil KirbyRed
 AmericaChavez Ink SparkleBlack
 AmericaChavez PrismFoil
@@ -16,7 +16,7 @@ Angela PrismFoil
 Angela PrismFoil GlimmerPurple
 AntMan Foil
 Apocalypse Foil
-Armor Foil Glimmer
+Armor Foil GlimmerRainbow
 Armor Foil GlimmerRed
 Armor Foil SparklePurple
 Armor Ink GlimmerBlue
@@ -34,10 +34,10 @@ ArnimZola GoldFoil GlimmerRed
 ArnimZola Ink ComicWhite
 ArnimZola Ink ComicWhite
 ArnimZola Ink KirbyPurple
-ArnimZola Ink Sparkle
-ArnimZola PrismFoil Comic
+ArnimZola Ink SparkleRainbow
 ArnimZola PrismFoil ComicBlack
 ArnimZola PrismFoil ComicBlue
+ArnimZola PrismFoil ComicRainbow
 ArnimZola PrismFoil ComicWhite
 Bast Foil ComicGold
 Bast Foil ComicPurple
@@ -51,8 +51,8 @@ Bast PrismFoil SparkleBlack
 BlackCat Foil
 BlackCat Foil GlimmerPurple
 BlackCat PrismFoil ComicPurple
-BlackPanther Foil Comic
 BlackPanther Foil ComicGold
+BlackPanther Foil ComicRainbow
 BlackPanther Foil ComicRed
 BlackPanther Foil ComicRed
 BlackPanther Foil ComicWhite
@@ -81,13 +81,13 @@ CaptainAmerica Ink ComicBlack
 CaptainAmerica Ink SparkleWhite
 CaptainAmerica Ink SparkleWhite
 CaptainAmerica PrismFoil
-CaptainAmerica PrismFoil Glimmer
-CaptainAmerica PrismFoil Sparkle
+CaptainAmerica PrismFoil GlimmerRainbow
+CaptainAmerica PrismFoil SparkleRainbow
 Carnage Foil ComicWhite
 Carnage Foil GlimmerBlue
 Carnage Foil GlimmerPurple
 Carnage GoldFoil SparkleRed
-Carnage Ink Kirby
+Carnage Ink KirbyRainbow
 Carnage PrismFoil
 Carnage PrismFoil GlimmerGreen
 Carnage PrismFoil GlimmerRed
@@ -97,7 +97,7 @@ Cloak PrismFoil
 Colossus PrismFoil
 Cosmo Foil GlimmerBlue
 Cosmo PrismFoil
-Cosmo PrismFoil Comic
+Cosmo PrismFoil ComicRainbow
 Cyclops Foil
 Daredevil Foil GlimmerRed
 Daredevil PrismFoil
@@ -105,7 +105,7 @@ Daredevil PrismFoil GlimmerPurple
 Darkhawk Foil
 Deadpool Foil
 Deadpool Foil GlimmerBlack
-Deadpool Foil Sparkle
+Deadpool Foil SparkleRainbow
 Deadpool GoldFoil GlimmerPurple
 Deadpool GoldFoil GlimmerWhite
 Deadpool Ink ComicBlue
@@ -114,19 +114,19 @@ Deadpool PrismFoil ComicGreen
 Deadpool PrismFoil GlimmerPurple
 Death Foil ComicPurple
 Death Foil GlimmerGold
-Death Foil Sparkle
+Death Foil SparkleRainbow
 Death Foil SparkleWhite
 Death PrismFoil
-Deathlok Foil Comic
 Deathlok Foil ComicPurple
+Deathlok Foil ComicRainbow
 Deathlok PrismFoil
 Destroyer Foil
 DevilDinosaur Foil ComicBlue
 DevilDinosaur Foil ComicPurple
 DevilDinosaur Foil ComicRed
 DevilDinosaur Foil ComicWhite
-DevilDinosaur Foil Glimmer
 DevilDinosaur Foil GlimmerPurple
+DevilDinosaur Foil GlimmerRainbow
 DevilDinosaur Foil KirbyRed
 DevilDinosaur Foil SparkleBlack
 DevilDinosaur Ink ComicBlack
@@ -150,8 +150,8 @@ Enchantress PrismFoil GlimmerPurple
 Forge Foil GlimmerPurple
 Forge PrismFoil
 Forge PrismFoil GlimmerPurple
-Galactus Foil Comic
 Galactus Foil ComicBlack
+Galactus Foil ComicRainbow
 Galactus PrismFoil
 Galactus PrismFoil SparkleGreen
 Gambit PrismFoil
@@ -165,7 +165,7 @@ Gamora Ink SparkleGreen
 Gamora PrismFoil
 Gamora PrismFoil ComicPurple
 GhostRider Foil
-GhostRider Foil Glimmer
+GhostRider Foil GlimmerRainbow
 GhostRider GoldFoil ComicWhite
 GhostRider GoldFoil GlimmerPurple
 GhostRider GoldFoil KirbyRed
@@ -181,16 +181,16 @@ GhostSpider PrismFoil SparklePurple
 GreenGoblin Foil
 GreenGoblin Foil SparkleWhite
 GreenGoblin Ink KirbyRed
-GreenGoblin PrismFoil Glimmer
 GreenGoblin PrismFoil GlimmerGreen
+GreenGoblin PrismFoil GlimmerRainbow
 GreenGoblin PrismFoil SparkleBlue
 Groot Foil
 Groot Foil ComicPurple
 Groot Foil ComicWhite
-Groot Ink Sparkle
+Groot Ink SparkleRainbow
 Hazmat PrismFoil
 Hela Foil
-Hela Foil Glimmer
+Hela Foil GlimmerRainbow
 Hela Foil GlimmerWhite
 HighEvolutionary Foil
 Infinaut Foil
@@ -199,11 +199,11 @@ IronMan Foil ComicBlue
 IronMan Foil ComicPurple
 IronMan Foil ComicWhite
 IronMan Foil GlimmerGreen
-IronMan Foil Kirby
+IronMan Foil KirbyRainbow
 IronMan Foil SparkleRed
 IronMan GoldFoil GlimmerRed
 IronMan GoldFoil KirbyBlack
-IronMan Ink Comic
+IronMan Ink ComicRainbow
 IronMan Ink GlimmerGreen
 IronMan Ink GlimmerGreen
 IronMan Ink SparkleWhite
@@ -240,7 +240,7 @@ Juggernaut Foil
 Juggernaut Foil ComicBlue
 Juggernaut GoldFoil SparkleWhite
 Juggernaut Ink GlimmerRed
-Juggernaut PrismFoil Glimmer
+Juggernaut PrismFoil GlimmerRainbow
 Killmonger Foil
 Killmonger Foil ComicBlack
 Killmonger Foil GlimmerGreen
@@ -253,8 +253,8 @@ KittyPryde PrismFoil
 KittyPryde PrismFoil GlimmerPurple
 Klaw Foil
 Knull Foil GlimmerWhite
-Knull Foil Sparkle
 Knull Foil SparklePurple
+Knull Foil SparkleRainbow
 Knull PrismFoil
 Knull PrismFoil ComicBlack
 Knull PrismFoil ComicBlue
@@ -287,7 +287,7 @@ Lockjaw Foil GlimmerGreen
 Lockjaw Foil SparkleBlack
 Lockjaw PrismFoil
 Lockjaw PrismFoil ComicPurple
-Lockjaw PrismFoil Sparkle
+Lockjaw PrismFoil SparkleRainbow
 Loki Foil
 Loki Foil ComicRed
 Loki GoldFoil SparkleBlue
@@ -303,8 +303,8 @@ Magik GoldFoil KirbyBlue
 Magik GoldFoil KirbyGold
 Magik GoldFoil SparkleBlack
 Magik GoldFoil SparkleRed
-Magik Ink Comic
 Magik Ink ComicGreen
+Magik Ink ComicRainbow
 Magik Ink GlimmerWhite
 Magik Ink SparkleRed
 Magik PrismFoil
@@ -319,7 +319,7 @@ Magneto PrismFoil GlimmerBlue
 Martyr PrismFoil
 MilesMorales Foil
 MilesMorales Foil ComicGold
-MilesMorales Foil Glimmer
+MilesMorales Foil GlimmerRainbow
 MilesMorales Ink SparkleBlack
 MilesMorales PrismFoil ComicRed
 MilesMorales PrismFoil GlimmerPurple
@@ -329,7 +329,7 @@ MoonGirl Foil ComicPurple
 MoonGirl Foil ComicWhite
 MoonGirl GoldFoil GlimmerWhite
 MoonGirl PrismFoil
-MoonGirl PrismFoil Glimmer
+MoonGirl PrismFoil GlimmerRainbow
 MoonGirl PrismFoil SparkleGold
 Morph Foil ComicBlue
 Morph Foil ComicWhite
@@ -342,7 +342,7 @@ MrFantastic PrismFoil
 MrFantastic PrismFoil GlimmerWhite
 MrNegative Foil GlimmerGold
 MrNegative Foil GlimmerGreen
-MrNegative Foil Sparkle
+MrNegative Foil SparkleRainbow
 MrNegative GoldFoil GlimmerBlue
 MrNegative GoldFoil SparklePurple
 MrNegative Ink GlimmerPurple
@@ -358,8 +358,8 @@ Mystique Foil ComicGreen
 Mystique GoldFoil KirbyWhite
 Mystique PrismFoil
 Mystique PrismFoil ComicBlack
-Mystique PrismFoil Glimmer
 Mystique PrismFoil GlimmerPurple
+Mystique PrismFoil GlimmerRainbow
 Mystique PrismFoil GlimmerRed
 Mystique PrismFoil SparkleRed
 Nebula Foil GlimmerBlue
@@ -367,12 +367,12 @@ Nebula Foil GlimmerWhite
 Nebula PrismFoil
 Nightcrawler PrismFoil
 Nova Foil
-Nova Foil Glimmer
 Nova Foil GlimmerGold
+Nova Foil GlimmerRainbow
 Nova PrismFoil ComicWhite
 Nova PrismFoil GlimmerGold
 Odin Foil
-Odin Foil Comic
+Odin Foil ComicRainbow
 Odin GoldFoil ComicGreen
 Odin GoldFoil ComicWhite
 Odin Ink GlimmerPurple
@@ -382,8 +382,8 @@ Onslaught PrismFoil
 Onslaught PrismFoil GlimmerBlue
 Psylocke Foil ComicGold
 Psylocke Foil GlimmerGold
-Psylocke GoldFoil Comic
 Psylocke GoldFoil ComicGold
+Psylocke GoldFoil ComicRainbow
 Psylocke GoldFoil KirbyBlue
 Psylocke GoldFoil SparkleGold
 Psylocke Ink GlimmerGreen
@@ -393,7 +393,7 @@ Psylocke PrismFoil ComicPurple
 Punisher Foil
 Quicksilver PrismFoil
 Quinjet Foil
-Quinjet Foil Comic
+Quinjet Foil ComicRainbow
 Quinjet Ink SparkleBlue
 Quinjet PrismFoil ComicWhite
 RedHulk PrismFoil
@@ -408,8 +408,8 @@ Rogue Foil ComicGreen
 Rogue Foil GlimmerRed
 Rogue Ink GlimmerRed
 Rogue Ink SparkleBlue
-Rogue PrismFoil Comic
 Rogue PrismFoil ComicPurple
+Rogue PrismFoil ComicRainbow
 Rogue PrismFoil GlimmerBlue
 Sabretooth PrismFoil
 ScarletWitch Foil
@@ -420,12 +420,12 @@ Scorpion Foil ComicGold
 Scorpion Foil GlimmerWhite
 Scorpion PrismFoil
 Sentinel Foil
-Sentinel Ink Glimmer
-Sentinel PrismFoil Comic
+Sentinel Ink GlimmerRainbow
+Sentinel PrismFoil ComicRainbow
 Sentinel PrismFoil ComicWhite
 Sera Foil ComicRed
 Sera Foil SparkleRed
-Sera Ink Kirby
+Sera Ink KirbyRainbow
 Sera PrismFoil
 Sera PrismFoil ComicPurple
 Sera PrismFoil GlimmerWhite
@@ -437,13 +437,13 @@ ShangChi Foil GlimmerPurple
 ShangChi GoldFoil GlimmerGold
 ShangChi Ink GlimmerGreen
 ShangChi Ink GlimmerPurple
-ShangChi Ink Kirby
+ShangChi Ink KirbyRainbow
 ShangChi PrismFoil ComicWhite
 ShangChi PrismFoil SparkleGold
 SheHulk Foil ComicRed
 SheHulk Foil GlimmerBlack
 SheHulk PrismFoil
-SheHulk PrismFoil Comic
+SheHulk PrismFoil ComicRainbow
 SheHulk PrismFoil GlimmerGreen
 Shuri PrismFoil
 SilverSurfer Foil
@@ -461,10 +461,10 @@ Starlord PrismFoil SparkleBlack
 Sunspot Foil
 Sunspot Foil ComicGold
 Sunspot Foil GlimmerBlue
-Sunspot Foil Kirby
+Sunspot Foil KirbyRainbow
 Sunspot GoldFoil ComicBlack
 Sunspot GoldFoil SparkleBlue
-Sunspot Ink Comic
+Sunspot Ink ComicRainbow
 Sunspot Ink SparkleGreen
 Sunspot PrismFoil GlimmerBlue
 Sunspot PrismFoil GlimmerRed
@@ -475,8 +475,8 @@ Thanos Foil GlimmerRed
 Thanos Foil SparkleRed
 Thanos Ink SparkleBlack
 Thanos PrismFoil
-Thanos PrismFoil Comic
 Thanos PrismFoil ComicGreen
+Thanos PrismFoil ComicRainbow
 TheCollector Foil GlimmerBlue
 TheCollector PrismFoil
 TheCollector PrismFoil ComicBlue
@@ -504,25 +504,25 @@ Venom Foil GlimmerGold
 Venom Foil GlimmerRed
 Venom Ink KirbyBlack
 Venom PrismFoil
-Venom PrismFoil Comic
 Venom PrismFoil ComicGreen
-Venom PrismFoil Kirby
+Venom PrismFoil ComicRainbow
+Venom PrismFoil KirbyRainbow
 Wave Foil GlimmerRed
 Wave Foil SparkleGold
 Wave PrismFoil
-Wave PrismFoil Glimmer
 Wave PrismFoil GlimmerPurple
+Wave PrismFoil GlimmerRainbow
 WerewolfByNight Foil
 WhiteQueen Foil
 WhiteQueen Foil ComicGold
 WhiteQueen Foil GlimmerBlack
 WhiteQueen Foil GlimmerGreen
 WhiteQueen Foil GlimmerPurple
-WhiteQueen GoldFoil Comic
+WhiteQueen GoldFoil ComicRainbow
 WhiteQueen Ink GlimmerWhite
 WhiteQueen PrismFoil ComicBlue
-WhiteQueen PrismFoil Glimmer
 WhiteQueen PrismFoil GlimmerGreen
+WhiteQueen PrismFoil GlimmerRainbow
 WhiteQueen PrismFoil GlimmerWhite
 WhiteQueen PrismFoil KirbyGreen
 WhiteQueen PrismFoil SparkleGreen
