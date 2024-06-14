@@ -1,0 +1,544 @@
+Aero Foil
+Aero Foil SparklePurple
+Aero PrismFoil Comic
+Aero PrismFoil GlimmerGreen
+AgathaHarkness PrismFoil
+AmericaChavez Foil ComicWhite
+AmericaChavez GoldFoil Glimmer
+AmericaChavez GoldFoil KirbyRed
+AmericaChavez Ink SparkleBlack
+AmericaChavez PrismFoil
+AmericaChavez PrismFoil GlimmerBlack
+AmericaChavez PrismFoil GlimmerRed
+AmericaChavez PrismFoil SparklePurple
+Angela Foil GlimmerBlue
+Angela PrismFoil
+Angela PrismFoil GlimmerPurple
+AntMan Foil
+Apocalypse Foil
+Armor Foil Glimmer
+Armor Foil GlimmerRed
+Armor Foil SparklePurple
+Armor Ink GlimmerBlue
+Armor PrismFoil
+ArnimZola Foil
+ArnimZola Foil ComicBlue
+ArnimZola Foil ComicGreen
+ArnimZola Foil ComicRed
+ArnimZola Foil ComicWhite
+ArnimZola Foil GlimmerBlack
+ArnimZola Foil GlimmerRed
+ArnimZola Foil KirbyBlue
+ArnimZola Foil SparkleBlack
+ArnimZola GoldFoil GlimmerRed
+ArnimZola Ink ComicWhite
+ArnimZola Ink ComicWhite
+ArnimZola Ink KirbyPurple
+ArnimZola Ink Sparkle
+ArnimZola PrismFoil Comic
+ArnimZola PrismFoil ComicBlack
+ArnimZola PrismFoil ComicBlue
+ArnimZola PrismFoil ComicWhite
+Bast Foil ComicGold
+Bast Foil ComicPurple
+Bast Foil GlimmerPurple
+Bast Foil KirbyPurple
+Bast Foil SparkleWhite
+Bast Ink SparkleWhite
+Bast PrismFoil
+Bast PrismFoil ComicGold
+Bast PrismFoil SparkleBlack
+BlackCat Foil
+BlackCat Foil GlimmerPurple
+BlackCat PrismFoil ComicPurple
+BlackPanther Foil Comic
+BlackPanther Foil ComicGold
+BlackPanther Foil ComicRed
+BlackPanther Foil ComicRed
+BlackPanther Foil ComicWhite
+BlackPanther Foil GlimmerPurple
+BlackPanther Foil KirbyBlack
+BlackPanther GoldFoil SparkleGreen
+BlackPanther Ink ComicRed
+BlackPanther Ink SparklePurple
+BlackPanther PrismFoil
+BlackPanther PrismFoil GlimmerRed
+BlackWidow Foil ComicWhite
+BlackWidow Ink ComicGreen
+BlackWidow PrismFoil
+BlackWidow PrismFoil ComicRed
+BlueMarvel Foil
+BlueMarvel Foil ComicPurple
+BlueMarvel Foil ComicWhite
+BlueMarvel Ink GlimmerGold
+BlueMarvel Ink SparkleGreen
+BlueMarvel PrismFoil ComicWhite
+BlueMarvel PrismFoil SparkleRed
+BuckyBarnes PrismFoil
+CaptainAmerica Foil GlimmerRed
+CaptainAmerica GoldFoil GlimmerGold
+CaptainAmerica Ink ComicBlack
+CaptainAmerica Ink SparkleWhite
+CaptainAmerica Ink SparkleWhite
+CaptainAmerica PrismFoil
+CaptainAmerica PrismFoil Glimmer
+CaptainAmerica PrismFoil Sparkle
+Carnage Foil ComicWhite
+Carnage Foil GlimmerBlue
+Carnage Foil GlimmerPurple
+Carnage GoldFoil SparkleRed
+Carnage Ink Kirby
+Carnage PrismFoil
+Carnage PrismFoil GlimmerGreen
+Carnage PrismFoil GlimmerRed
+Carnage PrismFoil SparkleWhite
+Cerebro PrismFoil
+Cloak PrismFoil
+Colossus PrismFoil
+Cosmo Foil GlimmerBlue
+Cosmo PrismFoil
+Cosmo PrismFoil Comic
+Cyclops Foil
+Daredevil Foil GlimmerRed
+Daredevil PrismFoil
+Daredevil PrismFoil GlimmerPurple
+Darkhawk Foil
+Deadpool Foil
+Deadpool Foil GlimmerBlack
+Deadpool Foil Sparkle
+Deadpool GoldFoil GlimmerPurple
+Deadpool GoldFoil GlimmerWhite
+Deadpool Ink ComicBlue
+Deadpool Ink KirbyBlue
+Deadpool PrismFoil ComicGreen
+Deadpool PrismFoil GlimmerPurple
+Death Foil ComicPurple
+Death Foil GlimmerGold
+Death Foil Sparkle
+Death Foil SparkleWhite
+Death PrismFoil
+Deathlok Foil Comic
+Deathlok Foil ComicPurple
+Deathlok PrismFoil
+Destroyer Foil
+DevilDinosaur Foil ComicBlue
+DevilDinosaur Foil ComicPurple
+DevilDinosaur Foil ComicRed
+DevilDinosaur Foil ComicWhite
+DevilDinosaur Foil Glimmer
+DevilDinosaur Foil GlimmerPurple
+DevilDinosaur Foil KirbyRed
+DevilDinosaur Foil SparkleBlack
+DevilDinosaur Ink ComicBlack
+DevilDinosaur Ink GlimmerGold
+DevilDinosaur Ink KirbyBlue
+DevilDinosaur Ink SparkleBlue
+DevilDinosaur PrismFoil
+DevilDinosaur PrismFoil ComicWhite
+DoctorOctopus Foil
+DoctorOctopus PrismFoil GlimmerRed
+DrDoom Foil GlimmerBlack
+DrDoom Ink GlimmerWhite
+DrDoom Ink SparkleRed
+DrDoom PrismFoil
+DrDoom PrismFoil ComicGreen
+DrDoom PrismFoil SparklePurple
+Electro PrismFoil
+Enchantress Foil GlimmerWhite
+Enchantress PrismFoil
+Enchantress PrismFoil GlimmerPurple
+Forge Foil GlimmerPurple
+Forge PrismFoil
+Forge PrismFoil GlimmerPurple
+Galactus Foil Comic
+Galactus Foil ComicBlack
+Galactus PrismFoil
+Galactus PrismFoil SparkleGreen
+Gambit PrismFoil
+Gambit PrismFoil ComicGreen
+Gambit PrismFoil ComicWhite
+Gamora Foil ComicBlack
+Gamora Foil ComicGreen
+Gamora Foil GlimmerGold
+Gamora GoldFoil KirbyGreen
+Gamora Ink SparkleGreen
+Gamora PrismFoil
+Gamora PrismFoil ComicPurple
+GhostRider Foil
+GhostRider Foil Glimmer
+GhostRider GoldFoil ComicWhite
+GhostRider GoldFoil GlimmerPurple
+GhostRider GoldFoil KirbyRed
+GhostRider GoldFoil KirbyWhite
+GhostRider Ink ComicPurple
+GhostRider PrismFoil GlimmerBlack
+GhostRider PrismFoil GlimmerBlue
+GhostSpider PrismFoil
+GhostSpider PrismFoil ComicBlue
+GhostSpider PrismFoil ComicGold
+GhostSpider PrismFoil GlimmerGold
+GhostSpider PrismFoil SparklePurple
+GreenGoblin Foil
+GreenGoblin Foil SparkleWhite
+GreenGoblin Ink KirbyRed
+GreenGoblin PrismFoil Glimmer
+GreenGoblin PrismFoil GlimmerGreen
+GreenGoblin PrismFoil SparkleBlue
+Groot Foil
+Groot Foil ComicPurple
+Groot Foil ComicWhite
+Groot Ink Sparkle
+Hazmat PrismFoil
+Hela Foil
+Hela Foil Glimmer
+Hela Foil GlimmerWhite
+HighEvolutionary Foil
+Infinaut Foil
+IronMan Foil ComicBlue
+IronMan Foil ComicBlue
+IronMan Foil ComicPurple
+IronMan Foil ComicWhite
+IronMan Foil GlimmerGreen
+IronMan Foil Kirby
+IronMan Foil SparkleRed
+IronMan GoldFoil GlimmerRed
+IronMan GoldFoil KirbyBlack
+IronMan Ink Comic
+IronMan Ink GlimmerGreen
+IronMan Ink GlimmerGreen
+IronMan Ink SparkleWhite
+IronMan PrismFoil
+IronMan PrismFoil ComicGreen
+IronMan PrismFoil ComicGreen
+IronMan PrismFoil GlimmerPurple
+IronMan PrismFoil GlimmerRed
+IronMan PrismFoil SparkleBlue
+Ironheart PrismFoil
+JeffTheBabyLandShark Foil ComicRed
+JeffTheBabyLandShark PrismFoil
+JeffTheBabyLandShark PrismFoil ComicBlack
+Jubilee Foil ComicGold
+Jubilee Foil ComicRed
+Jubilee Foil GlimmerGold
+Jubilee Foil KirbyBlue
+Jubilee Foil KirbyWhite
+Jubilee Foil SparkleBlack
+Jubilee Foil SparkleBlue
+Jubilee GoldFoil ComicBlack
+Jubilee GoldFoil ComicBlue
+Jubilee GoldFoil KirbyPurple
+Jubilee PrismFoil
+Jubilee PrismFoil ComicBlue
+Jubilee PrismFoil ComicPurple
+Jubilee PrismFoil GlimmerGreen
+Jubilee PrismFoil GlimmerPurple
+Jubilee PrismFoil GlimmerWhite
+Jubilee PrismFoil KirbyGold
+Jubilee PrismFoil SparkleGold
+Jubilee PrismFoil SparkleRed
+Juggernaut Foil
+Juggernaut Foil ComicBlue
+Juggernaut GoldFoil SparkleWhite
+Juggernaut Ink GlimmerRed
+Juggernaut PrismFoil Glimmer
+Killmonger Foil
+Killmonger Foil ComicBlack
+Killmonger Foil GlimmerGreen
+Killmonger Foil SparkleGreen
+Killmonger GoldFoil KirbyRed
+Killmonger PrismFoil GlimmerGreen
+KittyPryde Foil ComicGold
+KittyPryde Foil ComicPurple
+KittyPryde PrismFoil
+KittyPryde PrismFoil GlimmerPurple
+Klaw Foil
+Knull Foil GlimmerWhite
+Knull Foil Sparkle
+Knull Foil SparklePurple
+Knull PrismFoil
+Knull PrismFoil ComicBlack
+Knull PrismFoil ComicBlue
+Knull PrismFoil GlimmerBlack
+Knull PrismFoil GlimmerGreen
+Knull PrismFoil SparkleGold
+Knull PrismFoil SparkleWhite
+Kraven PrismFoil
+LadySif Foil
+LadySif Foil ComicGreen
+LadySif Foil SparklePurple
+LadySif PrismFoil ComicBlack
+Leader GoldFoil GlimmerWhite
+Leader Ink GlimmerGreen
+Leader PrismFoil
+Leader PrismFoil ComicPurple
+Leader PrismFoil ComicRed
+Leader PrismFoil GlimmerGold
+Leader PrismFoil SparkleRed
+Lizard Foil ComicBlack
+Lizard PrismFoil
+Lizard PrismFoil ComicBlue
+Lizard PrismFoil ComicBlue
+Lizard PrismFoil ComicRed
+Lizard PrismFoil GlimmerBlack
+Lizard PrismFoil GlimmerBlue
+Lizard PrismFoil GlimmerPurple
+Lockjaw Foil ComicBlack
+Lockjaw Foil GlimmerGreen
+Lockjaw Foil SparkleBlack
+Lockjaw PrismFoil
+Lockjaw PrismFoil ComicPurple
+Lockjaw PrismFoil Sparkle
+Loki Foil
+Loki Foil ComicRed
+Loki GoldFoil SparkleBlue
+Loki Ink SparklePurple
+Loki PrismFoil GlimmerWhite
+Magik Foil ComicWhite
+Magik Foil ComicWhite
+Magik Foil GlimmerPurple
+Magik Foil KirbyBlack
+Magik GoldFoil ComicBlack
+Magik GoldFoil GlimmerWhite
+Magik GoldFoil KirbyBlue
+Magik GoldFoil KirbyGold
+Magik GoldFoil SparkleBlack
+Magik GoldFoil SparkleRed
+Magik Ink Comic
+Magik Ink ComicGreen
+Magik Ink GlimmerWhite
+Magik Ink SparkleRed
+Magik PrismFoil
+Magik PrismFoil ComicRed
+Magik PrismFoil GlimmerGreen
+Magik PrismFoil SparkleBlue
+Magneto Foil
+Magneto Foil GlimmerPurple
+Magneto GoldFoil GlimmerBlue
+Magneto PrismFoil ComicGold
+Magneto PrismFoil GlimmerBlue
+Martyr PrismFoil
+MilesMorales Foil
+MilesMorales Foil ComicGold
+MilesMorales Foil Glimmer
+MilesMorales Ink SparkleBlack
+MilesMorales PrismFoil ComicRed
+MilesMorales PrismFoil GlimmerPurple
+MobiusMMobius PrismFoil
+Modok PrismFoil
+MoonGirl Foil ComicPurple
+MoonGirl Foil ComicWhite
+MoonGirl GoldFoil GlimmerWhite
+MoonGirl PrismFoil
+MoonGirl PrismFoil Glimmer
+MoonGirl PrismFoil SparkleGold
+Morph Foil ComicBlue
+Morph Foil ComicWhite
+Morph GoldFoil ComicWhite
+Morph GoldFoil KirbyGold
+Morph Ink SparkleGold
+Morph PrismFoil
+Morph PrismFoil SparkleGreen
+MrFantastic PrismFoil
+MrFantastic PrismFoil GlimmerWhite
+MrNegative Foil GlimmerGold
+MrNegative Foil GlimmerGreen
+MrNegative Foil Sparkle
+MrNegative GoldFoil GlimmerBlue
+MrNegative GoldFoil SparklePurple
+MrNegative Ink GlimmerPurple
+MrNegative Ink GlimmerRed
+MrNegative Ink SparkleWhite
+MrNegative PrismFoil
+MrNegative PrismFoil ComicPurple
+MrNegative PrismFoil GlimmerBlack
+MrNegative PrismFoil GlimmerBlack
+MrNegative PrismFoil GlimmerWhite
+Mystique Foil ComicGold
+Mystique Foil ComicGreen
+Mystique GoldFoil KirbyWhite
+Mystique PrismFoil
+Mystique PrismFoil ComicBlack
+Mystique PrismFoil Glimmer
+Mystique PrismFoil GlimmerPurple
+Mystique PrismFoil GlimmerRed
+Mystique PrismFoil SparkleRed
+Nebula Foil GlimmerBlue
+Nebula Foil GlimmerWhite
+Nebula PrismFoil
+Nightcrawler PrismFoil
+Nova Foil
+Nova Foil Glimmer
+Nova Foil GlimmerGold
+Nova PrismFoil ComicWhite
+Nova PrismFoil GlimmerGold
+Odin Foil
+Odin Foil Comic
+Odin GoldFoil ComicGreen
+Odin GoldFoil ComicWhite
+Odin Ink GlimmerPurple
+Odin PrismFoil GlimmerGold
+Odin PrismFoil SparkleBlack
+Onslaught PrismFoil
+Onslaught PrismFoil GlimmerBlue
+Psylocke Foil ComicGold
+Psylocke Foil GlimmerGold
+Psylocke GoldFoil Comic
+Psylocke GoldFoil ComicGold
+Psylocke GoldFoil KirbyBlue
+Psylocke GoldFoil SparkleGold
+Psylocke Ink GlimmerGreen
+Psylocke Ink SparkleRed
+Psylocke PrismFoil
+Psylocke PrismFoil ComicPurple
+Punisher Foil
+Quicksilver PrismFoil
+Quinjet Foil
+Quinjet Foil Comic
+Quinjet Ink SparkleBlue
+Quinjet PrismFoil ComicWhite
+RedHulk PrismFoil
+RedSkull Foil
+RedSkull Foil GlimmerRed
+RedSkull Foil GlimmerWhite
+RedSkull PrismFoil SparkleRed
+RocketRaccoon Foil
+RocketRaccoon Foil GlimmerRed
+Rogue Foil
+Rogue Foil ComicGreen
+Rogue Foil GlimmerRed
+Rogue Ink GlimmerRed
+Rogue Ink SparkleBlue
+Rogue PrismFoil Comic
+Rogue PrismFoil ComicPurple
+Rogue PrismFoil GlimmerBlue
+Sabretooth PrismFoil
+ScarletWitch Foil
+ScarletWitch Foil ComicBlack
+ScarletWitch PrismFoil ComicBlue
+ScarletWitch PrismFoil ComicWhite
+Scorpion Foil ComicGold
+Scorpion Foil GlimmerWhite
+Scorpion PrismFoil
+Sentinel Foil
+Sentinel Ink Glimmer
+Sentinel PrismFoil Comic
+Sentinel PrismFoil ComicWhite
+Sera Foil ComicRed
+Sera Foil SparkleRed
+Sera Ink Kirby
+Sera PrismFoil
+Sera PrismFoil ComicPurple
+Sera PrismFoil GlimmerWhite
+Sera PrismFoil SparklePurple
+ShangChi Foil
+ShangChi Foil ComicGreen
+ShangChi Foil ComicPurple
+ShangChi Foil GlimmerPurple
+ShangChi GoldFoil GlimmerGold
+ShangChi Ink GlimmerGreen
+ShangChi Ink GlimmerPurple
+ShangChi Ink Kirby
+ShangChi PrismFoil ComicWhite
+ShangChi PrismFoil SparkleGold
+SheHulk Foil ComicRed
+SheHulk Foil GlimmerBlack
+SheHulk PrismFoil
+SheHulk PrismFoil Comic
+SheHulk PrismFoil GlimmerGreen
+Shuri PrismFoil
+SilverSurfer Foil
+SilverSurfer Foil GlimmerRed
+SpiderWoman Foil GlimmerBlue
+SpiderWoman PrismFoil
+SquirrelGirl Foil GlimmerBlue
+SquirrelGirl PrismFoil
+Starlord Foil GlimmerGold
+Starlord Ink GlimmerGreen
+Starlord PrismFoil
+Starlord PrismFoil ComicPurple
+Starlord PrismFoil GlimmerGold
+Starlord PrismFoil SparkleBlack
+Sunspot Foil
+Sunspot Foil ComicGold
+Sunspot Foil GlimmerBlue
+Sunspot Foil Kirby
+Sunspot GoldFoil ComicBlack
+Sunspot GoldFoil SparkleBlue
+Sunspot Ink Comic
+Sunspot Ink SparkleGreen
+Sunspot PrismFoil GlimmerBlue
+Sunspot PrismFoil GlimmerRed
+Sunspot PrismFoil GlimmerWhite
+Sunspot PrismFoil SparkleBlue
+Taskmaster Foil
+Thanos Foil GlimmerRed
+Thanos Foil SparkleRed
+Thanos Ink SparkleBlack
+Thanos PrismFoil
+Thanos PrismFoil Comic
+Thanos PrismFoil ComicGreen
+TheCollector Foil GlimmerBlue
+TheCollector PrismFoil
+TheCollector PrismFoil ComicBlue
+TheCollector PrismFoil ComicBlue
+Thor Foil ComicRed
+Thor Foil GlimmerRed
+Thor Ink SparklePurple
+Thor PrismFoil
+Thor PrismFoil ComicPurple
+Thor PrismFoil GlimmerGold
+Thor PrismFoil GlimmerGreen
+TyphoidMary Foil GlimmerGreen
+TyphoidMary PrismFoil
+TyphoidMary PrismFoil GlimmerBlue
+Valkyrie Foil
+Valkyrie Foil ComicRed
+Valkyrie Foil SparkleWhite
+Valkyrie Ink ComicPurple
+Valkyrie PrismFoil ComicBlue
+Valkyrie PrismFoil ComicGreen
+Valkyrie PrismFoil GlimmerBlue
+Valkyrie PrismFoil GlimmerRed
+Valkyrie PrismFoil SparklePurple
+Venom Foil GlimmerGold
+Venom Foil GlimmerRed
+Venom Ink KirbyBlack
+Venom PrismFoil
+Venom PrismFoil Comic
+Venom PrismFoil ComicGreen
+Venom PrismFoil Kirby
+Wave Foil GlimmerRed
+Wave Foil SparkleGold
+Wave PrismFoil
+Wave PrismFoil Glimmer
+Wave PrismFoil GlimmerPurple
+WerewolfByNight Foil
+WhiteQueen Foil
+WhiteQueen Foil ComicGold
+WhiteQueen Foil GlimmerBlack
+WhiteQueen Foil GlimmerGreen
+WhiteQueen Foil GlimmerPurple
+WhiteQueen GoldFoil Comic
+WhiteQueen Ink GlimmerWhite
+WhiteQueen PrismFoil ComicBlue
+WhiteQueen PrismFoil Glimmer
+WhiteQueen PrismFoil GlimmerGreen
+WhiteQueen PrismFoil GlimmerWhite
+WhiteQueen PrismFoil KirbyGreen
+WhiteQueen PrismFoil SparkleGreen
+WhiteTiger PrismFoil
+Wolverine Foil
+Wolverine Foil ComicBlue
+Wolverine Foil ComicRed
+Wolverine PrismFoil GlimmerPurple
+Wolverine PrismFoil SparkleGreen
+Wong PrismFoil
+X23 Foil
+X23 Foil GlimmerGreen
+X23 PrismFoil ComicGreen
+Yondu PrismFoil
+Yondu PrismFoil ComicWhite
+Yondu PrismFoil GlimmerWhite
+Zabu Foil ComicGold
+Zabu Foil GlimmerWhite
+Zabu PrismFoil
