@@ -1,9 +1,32 @@
 import json
+import re
+
+def extract_cards_section(file_path):
+    with open(file_path, 'r', encoding='utf-8-sig') as file:
+        json_content = file.read()
+
+    # Regular expression to find the "Cards": [ section that follows a closing square bracket
+    pattern = re.compile(r'\],\s*"Cards":\s*\[([^]]*)\]', re.DOTALL)
+    match = pattern.search(json_content)
+
+    if match:
+        cards_section = match.group(1)
+        try:
+            cards_data = json.loads(f"[{cards_section.strip()}]")
+            return cards_data
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON: {e}")
+            return None
+    else:
+        print("No matching section found")
+        return None
 
 # Load JSON data from CollectionState.JSON
+file_path = 'CollectionState.JSON'
 try:
-    with open('CollectionState.JSON', 'r', encoding='utf-8-sig') as f:
-        data = json.load(f)
+    data = extract_cards_section(file_path)
+    if data is None:
+        exit(1)
 except FileNotFoundError:
     print("Error: FileNotFoundError - CollectionState.JSON file not found.")
     exit(1)
@@ -13,7 +36,7 @@ except json.JSONDecodeError as e:
 
 # Extract relevant information and filter out entries with "Custom": true
 cards_info = []
-for card in data.get('Cards', []):
+for card in data:
     if "Custom" in card and card["Custom"] == True:
         continue  # Skip entries where Custom is true
 
